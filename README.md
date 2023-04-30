@@ -1,3 +1,4 @@
+![logo(https://github.com/Sushrutnet/Sushrutnet#:~:text=Commit%20time-,Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.mp4,-Add%20files%20via)]
 <h1 align="center">Hi 👋, I'm Sushrut Netkar</h1>
 <h3 align="center">Crafting Digital Solutions Sushrut's Code Chronicles</h3>
 <img align="right" alt="cod" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" >
