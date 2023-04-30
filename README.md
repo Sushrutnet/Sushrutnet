@@ -1,4 +1,5 @@
-<img alt="aa" width="absolute" src="https://github.com/Sushrutnet/Sushrutnet#:~:text=3%20minutes%20ago-,srt.gif,-Add%20files%20via" >
+<img src="https://example.com/path/to/your-gif.gif" alt="Your GIF" width="300" height="200" />
+
 <h1 align="center">Hi 👋, I'm Sushrut Netkar</h1>
 <h3 align="center">Crafting Digital Solutions Sushrut's Code Chronicles</h3>
 <img align="right" alt="cod" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" >
