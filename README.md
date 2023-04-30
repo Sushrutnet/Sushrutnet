@@ -30,9 +30,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushrutnet&show_icons=true&locale=en" alt="sushrutnet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushrutnet&" alt="sushrutnet" /></p>
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)
 
 ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg)
 
 ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg)
 
