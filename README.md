@@ -1,4 +1,4 @@
-<img src="https://example.com/path/to/your-gif.gif" alt="Your GIF" width="300" height="200" />
+<img src="https://github.com/Sushrutnet/Sushrutnet/blob/main/srt.gif" alt="Your GIF" width="300" height="200" />
 
 <h1 align="center">Hi 👋, I'm Sushrut Netkar</h1>
 <h3 align="center">Crafting Digital Solutions Sushrut's Code Chronicles</h3>
