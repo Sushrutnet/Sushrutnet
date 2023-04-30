@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushrut Netkar</h1>
 <h3 align="center">Crafting Digital Solutions Sushrut's Code Chronicles</h3>
+<img align="right" alt="cod" width="400" src="https://camo.githubusercontent.com/95a8f8600af35a1848f10a6d8caf6db62d1d46bee79f0f0055719ba4d0fac628/68747470733a2f2f7777772e6d79776562776f726c642e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f7765622d64657369676e2d6b6572616c612e676966" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushrutnet&label=Profile%20views&color=0e75b6&style=flat" alt="sushrutnet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushrutnet" alt="sushrutnet" /></a> </p>
@@ -13,7 +14,7 @@
 - 📫 How to reach me **sushrutnet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="cod" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" >
+
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sushrut-netkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushrut-netkar/" height="30" width="40" /></a>
