@@ -1,4 +1,4 @@
-![logo(https://github.com/Sushrutnet/Sushrutnet#:~:text=3%20minutes%20ago-,srt.gif,-Add%20files%20via)]
+<img alt="aa" width="absolute" src="https://github.com/Sushrutnet/Sushrutnet#:~:text=3%20minutes%20ago-,srt.gif,-Add%20files%20via" >
 <h1 align="center">Hi 👋, I'm Sushrut Netkar</h1>
 <h3 align="center">Crafting Digital Solutions Sushrut's Code Chronicles</h3>
 <img align="right" alt="cod" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" >
