@@ -37,7 +37,7 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg" alt="Stats" style="width: 25%;">
+  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/3-stats.svg" alt="Stats" style="width: 35%;">
   <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/1-repos-per-language.svg" alt="Repos per Language" style="width: 25%;">
   <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commit Language" style="width: 25%;">
   <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dark/4-productive-time.svg" alt="Productive Time" style="width: 25%;">
