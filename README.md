@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sushrut Netkar</h1>
 <h3 align="center">Crafting Digital Solutions Sushrut's Code Chronicles</h3>
-<img align="right" alt="cod" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRovpXJrJAwoL5hWtL94kdEV_OMpSf2dWlOrl9sZnWsGzHcIqnLNTzovqLWAG_Ge0pylU&usqp=CAU" >
+<img align="right" alt="cod" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushrutnet&label=Profile%20views&color=0e75b6&style=flat" alt="sushrutnet" /> </p>
 
 
